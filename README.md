@@ -1,5 +1,13 @@
 <img src="cabecera.png">
 
+<head>
+  <style>
+    a { color: #FF0000; } /* CSS link color */
+  </style>
+</head>
+<body>
+  <a href="http://example.com/">A Red Link</a>
+</body>
 
 <!--
 **aluhectorarteaga/aluhectorarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,16 +15,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working studying a masters degree to become a Technology teacher
+- 🔭 I’m currently studying a masters degree in teaching Technology
 
-- 🌱 I’m currently getting started with GitHub and learning markdown
+- 🌱 I’m getting started with GitHub and learning markdown
 
 - 🤔 I’m looking for help with pretty much everything!
 
-- 💬 Ask me about ...
+- 💬 Ask me about whatever you consider I may be of assistance
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: [alu0100813142@ull.edu.es](mailto:alu0100813142@ull.edu.es)
 
-- 😄 Pronouns: ...
+- ⚡ Fun fact: I love pineapple :pineapple: on pizza :pizza:
 
-- ⚡ Fun fact: ...
