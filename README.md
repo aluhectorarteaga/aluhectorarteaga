@@ -1,4 +1,4 @@
-### Hi there 👋 Héctor Arteaga here!
+### Hello there 👋 Héctor Arteaga here!
 
 
 **aluhectorarteaga/aluhectorarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
