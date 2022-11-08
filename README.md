@@ -1,7 +1,9 @@
 <img src="cabecera.png">
 
 <p align="center">
+  
 [alu0100813142@ull.edu.es](mailto:alu0100813142@ull.edu.es) &bull; [@hectorarteagama](https://twitter.com/hectorarteagama)
+  
 </p>
 
 <!--
