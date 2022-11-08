@@ -2,6 +2,8 @@
 
 <p align="center">
   
+<!-- no sé por qué esto no me funciona si en otras ocasiones ha funcionado bien -->
+  
 [alu0100813142@ull.edu.es](mailto:alu0100813142@ull.edu.es) &bull; [@hectorarteagama](https://twitter.com/hectorarteagama)
   
 </p>
