@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [alu0100813142@ull.edu.es](mailto:alu0100813142@ull.edu.es) 
 
 - ⚡ Fun fact: I love pineapple :pineapple: on pizza :pizza:
+
+<img src="https://github-readme-stats.vercel.app/api?username=aluhectorarteaga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
