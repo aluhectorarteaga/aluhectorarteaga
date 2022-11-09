@@ -1,4 +1,4 @@
-<img src="cabecera.png">
+<img src="cabecera2.png">
 
 <p align="center">
   
